@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/posts/firstpost/</loc>
+    <loc>https://example.com/palets-de-madera/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/posts/secondpost/</loc>
+    <loc>https://example.com/palets-de-madera/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/posts/thirdpost/</loc>
+    <loc>https://example.com/palets-de-madera/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/posts/fourthpost/</loc>
+    <loc>https://example.com/palets-de-madera/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/about/</loc>
+    <loc>https://example.com/palets-de-madera/about/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/posts/</loc>
+    <loc>https://example.com/palets-de-madera/posts/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/</loc>
+    <loc>https://example.com/palets-de-madera/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/page-list/</loc>
+    <loc>https://example.com/palets-de-madera/page-list/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/tags/</loc>
+    <loc>https://example.com/palets-de-madera/tags/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/tags/second-tag/</loc>
+    <loc>https://example.com/palets-de-madera/tags/another-tag/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/tags/number-2/</loc>
+    <loc>https://example.com/palets-de-madera/tags/second-tag/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/silly-eleventy-demo/tags/another-tag/</loc>
+    <loc>https://example.com/palets-de-madera/tags/number-2/</loc>
     <lastmod>2021-01-29</lastmod>
   </url>
 </urlset>
