@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "7th sea 1st edition reference",
+  "title": "Palets de madera",
   "home_page_url": "https://example.com/",
   "feed_url": "https://example.com/feed/feed.json",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Venta de palets de madera en España.",
   "author": {
     "name": "Your Name Here",
     "url": "https://example.com/about-me/"
