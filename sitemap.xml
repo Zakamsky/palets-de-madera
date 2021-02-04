@@ -23,41 +23,51 @@
   
   <url>
     <loc>https://example.com/palets-de-madera/about/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/productos/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/page-list/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/site.webmanifest</loc>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/another-tag/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/second-tag/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/tags/new/</loc>
+    <lastmod>2021-02-04</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/number-2/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-04</lastmod>
   </url>
 </urlset>

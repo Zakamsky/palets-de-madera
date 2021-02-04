@@ -1,0 +1,25 @@
+{
+    "lang": "es_ES",
+    "dir": "ltr",
+    "description": "description",
+    "name": "title",
+    "short_name": "title",
+    "icons": [
+        {
+            "src": "/palets-de-madera/img/favicon/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/palets-de-madera/img/favicon/favicon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1a1a1a", 
+    "background_color": "#1a1a1a",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "natural"
+}
+
