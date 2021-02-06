@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://example.com/palets-de-madera/palets/firstpalet/</loc>
+    <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/palets-de-madera/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/palets/secondpalet/</loc>
+    <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
@@ -12,8 +22,18 @@
   </url>
   
   <url>
+    <loc>https://example.com/palets-de-madera/palets/thirdpalet/</loc>
+    <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/palets-de-madera/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/palets/fourthpalet/</loc>
+    <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
@@ -23,51 +43,76 @@
   
   <url>
     <loc>https://example.com/palets-de-madera/about/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/palets-de-madera/productos/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <loc>https://example.com/palets-de-madera/posts/</loc>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/madera/</loc>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/page-list/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/palets-de-madera/site.webmanifest</loc>
-    <lastmod>2021-02-04</lastmod>
+    <loc>https://example.com/palets-de-madera/palets/</loc>
+    <lastmod>2021-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/productos/</loc>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/tags/palets/</loc>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/another-tag/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/second-tag/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/new/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/palets-de-madera/tags/number-2/</loc>
-    <lastmod>2021-02-04</lastmod>
+    <lastmod>2021-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/tags/madera/</loc>
+    <lastmod>2021-02-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/palets-de-madera/tags/productos/</loc>
+    <lastmod>2021-02-06</lastmod>
   </url>
 </urlset>
