@@ -5,8 +5,8 @@
   "feed_url": "https://example.com/feed/feed.json",
   "description": "Venta de palets de madera en España.",
   "author": {
-    "name": "Your Name Here",
-    "url": "https://example.com/about-me/"
+    "name": "",
+    "url": ""
   },
   "items": [{
       "id": "https://example.com/palets-de-madera/posts/fourthpost/",

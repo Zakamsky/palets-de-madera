@@ -20,30 +20,53 @@
   </head>
   <body>
     <header>
-  <p class="contacts">
-    <span class="contacts__phone"><a href="#" class="contacts__phone-link">698 99 90 92</a></span>
-    <span class="contacts__phone"><a href="#" class="contacts__phone-link">698 99 90 92</a></span>
-    <span class="contacts__email"><a href="#" class="contacts__email-link">ejemplo@gmail.com</a></span>
-  </p>
-  <nav class="navigation">
-    <div class="home-link"><a href="/palets-de-madera/"><img src="" alt="Palets de madera"></a></div>
+  <div class="contacts">
+    <address class="contacts__wrap container">
+      <span class="contacts__item ">
+        <a href="tel:34698990901"
+           class="contacts__link --phone"
+        >
+          +34 (698) 99-09-01
+        </a>
+      </span>
+        <span class="contacts__item --secondary">
+        <a href="tel:698222222"
+           class="contacts__link --phone"
+        >
+          698 22 22 22
+        </a>
+      </span>
+        <span class="contacts__item --right --secondary">
+        <a href="mailto:ejemplo@gmail.com"
+           class="contacts__link --email"
+        >
+          ejemplo@gmail.com
+        </a>
+      </span>
+      <button type="button" class="menu-opener">Menu</button>
+    </address>
+  </div>
+
+  <nav class="navigation container --no-js">
+      <a class="home-link" href="/palets-de-madera/" >
+        <img class="home-link__img" src="/palets-de-madera/img/logo.svg" alt="Palets de madera">
+      </a>
 
     
     
 
-    <ul class="nav"><li class="nav-item">
-        <a href="/palets-de-madera/">Home</a></li><li class="nav-item">
-        <a href="/palets-de-madera/posts/">posts</a></li><li class="nav-item">
-        <a href="/palets-de-madera/productos/">productos</a><ul class="sub-nav"><li class="nav-item">
-        <a href="/palets-de-madera/madera/">madera</a></li><li class="nav-item">
-        <a href="/palets-de-madera/palets/">palets</a></li></ul></li><li class="nav-item">
-        <a href="/palets-de-madera/about/">About us</a></li></ul>
+    <ul class="nav"><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/">Home</a></li><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/posts/">posts</a></li><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/productos/">productos</a><ul class="nav__sub-nav"><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/madera/">madera</a></li><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/palets/">palets</a></li></ul></li><li class="nav__item">
+        <a class="nav__link" href="/palets-de-madera/about/">About us</a></li></ul>
   </nav>
 </header>
 
 
-
-    <main class="tmpl-post">
+    <main class="page  tmpl-post">
       <h1>This is fourth palet.</h1>
 
 <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
@@ -58,9 +81,70 @@
 
     </main>
 
-    <footer></footer>
+    <footer class="footer">
+  <h2 class="visually-hidden">direcciones</h2>
+  <div class="footer__top container">
+      <section class="footer__block">
+        <h3 class="footer__title">Marbella</h3>
+        <ul class="footer__list">
+          <li class="footer__item">
+            <a class="footer__link --phone"
+               href="tel:34698990901">
+              +34 (698) 99-09-01
+            </a>
+          </li>
+          <li class="footer__item">
+            <a class="footer__link --email" href="mailto:ejemplo@gmail.com">
+              ejemplo@gmail.com
+            </a>
+          </li>
+          <li class="footer__item">Camino del Ángel,109, Bloque 3, 1 29604 , Nueva Andalucía , Marbella , Málaga ( España)</li>
+          <li class="footer__item">Marbella</li>
+        </ul>
+      </section>
+      <section class="footer__block">
+        <h3 class="footer__title">Marbella</h3>
+        <ul class="footer__list">
+          <li class="footer__item">
+            <a class="footer__link --phone"
+               href="tel:698222222">
+              698 22 22 22
+            </a>
+          </li>
+          <li class="footer__item">
+            <a class="footer__link --email" href="mailto:ejemplo@gmail.com">
+              ejemplo@gmail.com
+            </a>
+          </li>
+          <li class="footer__item">Camino del Ángel,109, Bloque 3, 1 29604 , Nueva Andalucía , Marbella , Málaga ( España)</li>
+          <li class="footer__item">Marbella</li>
+        </ul>
+      </section>
+      <section class="footer__block">
+        <h3 class="footer__title">Menu</h3>
+
+        
+        
+
+        <ul class="footer__list --nav"><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/">Home</a></li><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/posts/">posts</a></li><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/productos/">productos</a><ul class="footer__list --sub-nav"><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/madera/">madera</a></li><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/palets/">palets</a></li></ul></li><li class="footer__list --nav-item">
+            <a class="footer__link href="/palets-de-madera/about/">About us</a></li></ul>
+      </section>
+  </div>
+  <div class="footer__bottom">
+    <div class="container">
+      <a href="" class="footer__copyright">Palets de madera &copy;2021</a>
+      <a href="https://elkin.dev" class="footer__development" target="_blank">developed by Elkin.dev</a>
+    </div>
+  </div>
+</footer>
 
 
     <!-- Current page: /palets-de-madera/palets/fourthpalet/ -->
+    <script src="/palets-de-madera/js/main.js"></script>
   </body>
 </html>
