@@ -17,7 +17,7 @@ async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["avif", "webp", "jpeg"],
-    urlPath: "/palets-de-madera/img/",
+    urlPath: "/img/",
     outputDir: "./_site/img",
   });
 
